@@ -1,0 +1,9 @@
+com/travelapp/MainActivity.java
+ com.travelapp.MainActivity
+com/travelapp/MainApplication.java
+ com.travelapp.MainApplication
+ com.travelapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/travelapp/BuildConfig.java
+ com.travelapp.BuildConfig
